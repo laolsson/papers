@@ -3,7 +3,7 @@ My academic papers. The papers that are available for free online are in this re
 
 Lars Olsson, Information Self-structuring for Developmental Robotics: Organization, Adaptation, and Integration, PhD thesis, University of Hertfordshire, May 2006
 
-Daniel Polani, Chrystopher L. Nehaniv, Alexander Klyubin, Lars Olsson, Information in the Perception and Action of Embodied Agents. Künstliche Intelligenz, 3/06:35-38. Special Issue on Learning and Self-organization of Behavior. Abstract
+Daniel Polani, Chrystopher L. Nehaniv, Alexander Klyubin, Lars Olsson, <em>Information in the Perception and Action of Embodied Agents</em>. Künstliche Intelligenz, 3/06:35-38. Special Issue on Learning and Self-organization of Behavior. Abstract
 
 Lars Olsson, Chrystopher L. Nehaniv, Daniel Polani, From Unknown Sensors and Actuators to Actions Grounded in Sensorimotor Perceptions, Connection Science issue 18.2
 
